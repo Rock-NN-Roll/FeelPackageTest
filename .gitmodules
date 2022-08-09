@@ -1,0 +1,6 @@
+[submodule "Assets/Plugins/basegame"]
+	path = Assets/Plugins/basegame
+	url = https://gitee.com/ltb_1/basegame.git
+[submodule "Assets/Plugins/CharacterRepo"]
+	path = Assets/Plugins/CharacterRepo
+	url = https://gitee.com/ltb_1/characterrepo.git
